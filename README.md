@@ -6,6 +6,7 @@ This application is designed for the detection of brain tumors in medical images
 ## Overview
 
 The Brain Tumor Detection application is built using deep learning models and image processing techniques to assist medical professionals in the early detection of brain tumors. It takes MRI scans as input and outputs predictions highlighting potential tumor regions.
+The model was given an accuracy of 0.998
 
 ## Features
 
