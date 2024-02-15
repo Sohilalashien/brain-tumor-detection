@@ -27,3 +27,6 @@ The model was given an accuracy of 0.998
 
 Install the required Python packages using the following command:
 pip install -r requirements.txt
+
+### Apk
+The application can be used in an easy way, where an x-ray image is inserted and then the user will get the result of whether yes, is there a tumor or not.
